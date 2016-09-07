@@ -1,5 +1,5 @@
 # Your First Lab
-
+#
 On Learn, labs are exercises you have to complete.
 
 The goal of this lab is to practice the workflow required to complete a lab and make sure that you can make a new file using the terminal.
